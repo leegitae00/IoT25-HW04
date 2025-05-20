@@ -1,4 +1,6 @@
 ﻿# IoT25-HW04
+Execution Video: https://youtube.com/shorts/6j1VIDFQor8?si=XE7W9abP4ClzPF6C
+ 
 
 ![Image](https://github.com/user-attachments/assets/b44468a5-a8c0-4720-beb9-0b6220d2539b)
 
